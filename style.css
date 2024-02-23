@@ -7,7 +7,7 @@ h2{
     color: #070000;
 }
 body{
-    color: #e98181;
+    background: linear-gradient(navy,white,gray);
     font-size: 20px;
 }
 h3{
