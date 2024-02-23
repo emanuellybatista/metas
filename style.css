@@ -7,7 +7,7 @@ h2{
     color: #070000;
 }
 body{
-    background: linear-gradient(navy,white,gray);
+    background: linear-gradient(rgb(155, 1, 8),rgb(238, 69, 69),rgb(241, 156, 156));
     font-size: 20px;
 }
 h3{
