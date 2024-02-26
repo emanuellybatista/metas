@@ -14,3 +14,6 @@ body {
     color: var(--branco);
    
 }
+div{
+    font-size: 10px;
+}
