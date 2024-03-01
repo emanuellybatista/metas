@@ -31,10 +31,10 @@ body {
 .botao{
     font-size: 18px;
     color: #ee1f1f;
-    justify-content: center;
+   
    
    display: flex;
-   
+   width: 100%;
     background-color: var(--botao-inativo);
     padding: 1em;
 }
