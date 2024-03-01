@@ -1,6 +1,9 @@
 h1{
     color: #ee1f1f;
 }
+h2{
+    text-align: center;
+}
 :root {
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
