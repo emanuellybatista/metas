@@ -17,4 +17,5 @@ body {
 
 .conteudo-principal{
     display: flex;
+    justify-content: center;
 }
