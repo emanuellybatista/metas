@@ -16,7 +16,7 @@ h2{
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-   
+   font-family: 'Chakra Petch',sans-serif;
 }
 
 .conteudo-principal{
