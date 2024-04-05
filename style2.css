@@ -61,7 +61,7 @@ body {
 .botao:first-child{
     border-radius: 40px 40px 0 0;
 }
-@madia screen and (min-wdth:768px){
+@madia screen and (min-width:768px){
     .botoes{
         display:flex;
     }
@@ -71,6 +71,12 @@ body {
     .botao:last-child{
         border-radius:0 40px 0 0;
     }
+
+
+.titulo-principal { text-align: left;
+    width: 100%;
+    font-size: 32px;
 }
 
-
+}
+}
